@@ -1,0 +1,11 @@
+.navi{
+    background-color: #333;
+}
+
+:hover.box{
+box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+*{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/back_our/20190628/ourmid/pngtree-white-lines-pink-background-image_269454.jpg") ;
+    }
